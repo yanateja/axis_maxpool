@@ -9,7 +9,7 @@
 // Project Name: 
 // Target Devices: 
 // Tool Versions: 
-// Description: 
+// Description: Maxpooling 2x2 Implemanttion
 // 
 // Dependencies: 
 // 
